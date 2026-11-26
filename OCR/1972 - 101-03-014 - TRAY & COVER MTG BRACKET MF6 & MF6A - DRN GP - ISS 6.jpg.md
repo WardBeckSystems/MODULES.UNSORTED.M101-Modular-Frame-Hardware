@@ -41,7 +41,7 @@ Mechanical detail of a tray and cover mounting bracket for the MF6 frame.
 - **Words (OCR):** 77 in 61 lines: DIA · HOLES "156 · 2 HOLES · 6-32 UNC THD. · 3.12 · 2.66 · 46 · 1.468 · HOLE *218 DIA . · 22 · 2*718 · 31
 - **Title block:** (117, 27)–(378, 67) mm: TOLS · FA · MaRD · BECK · IsS Moplckd · USED ON · o92/4 MF · Finish · VIBRATE 120 GRIT · DrN · GP · 132 · PLATE DATE · APR 72 · TrAY 4 Cover · YK Koded ONE · BRIGHT · CAD · MF 6 · M-4 - 77 · DIM: "22 
 
-Every curve, box, word and wire group: [1972 - 101-03-014 - TRAY & COVER MTG BRACKET MF6 & MF6A - DRN GP - ISS 6 (traced).json](../MECHANICAL/1972%20-%20101-03-014%20-%20TRAY%20%26%20COVER%20MTG%20BRACKET%20MF6%20%26%20MF6A%20-%20DRN%20GP%20-%20ISS%206%20(traced).json) (the CAD file: `1972 - 101-03-014 - TRAY & COVER MTG BRACKET MF6 & MF6A - DRN GP - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 101-03-014 - TRAY & COVER MTG BRACKET MF6 & MF6A - DRN GP - ISS 6 (traced).json](../MECHANICAL/1972%20-%20101-03-014%20-%20TRAY%20%26%20COVER%20MTG%20BRACKET%20MF6%20%26%20MF6A%20-%20DRN%20GP%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1972 - 101-03-014 - TRAY & COVER MTG BRACKET MF6 & MF6A - DRN GP - ISS 6 (traced).dxf`).
 
 ## Full text
 

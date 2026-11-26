@@ -33,7 +33,7 @@ Wiki page: [M101](../../../../PAGES/M101.md)
 - **Words (OCR):** 32 in 27 lines: 8*44 · 136 DIA ~ 3FLACES · 82 · ISSUE DATE · REVISION · APP · MIL · ALUM ALOY . obuK · NQIE · ShaRP EDGES- · FISH: EACK ANODIZE · WBS WARD-BECK SYSTEMS
 - **Title block:** (281, 12)–(432, 81) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: MGR · DEESs STEIP · ENG_ · CKD · MFB6 · 5 A ) · APP · SCALE · ISSUE · 101 - 03 - 018 · 005
 
-Every curve, box, word and wire group: [19xx - 101-03-018 - DRESS STRIP (MFB6-5A) - DRN MGB - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20101-03-018%20-%20DRESS%20STRIP%20(MFB6-5A)%20-%20DRN%20MGB%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 101-03-018 - DRESS STRIP (MFB6-5A) - DRN MGB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 101-03-018 - DRESS STRIP (MFB6-5A) - DRN MGB - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20101-03-018%20-%20DRESS%20STRIP%20%28MFB6-5A%29%20-%20DRN%20MGB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 101-03-018 - DRESS STRIP (MFB6-5A) - DRN MGB - ISS 1 (traced).dxf`).
 
 ## Full text
 

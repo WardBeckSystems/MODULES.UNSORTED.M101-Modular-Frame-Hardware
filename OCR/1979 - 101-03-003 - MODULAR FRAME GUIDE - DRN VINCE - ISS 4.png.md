@@ -34,7 +34,7 @@ Wiki page: [M101](../../../../PAGES/M101.md)
 - **Words (OCR):** 56 in 41 lines: 10-500 · L:50 · PItchEs AT 5*00 · 76*00 · 615 · 230 · 456 DIA: · c'Bore · 750 DIA · I81 DIA . Ioo DEEP · PAcEs · To
 - **Title block:** (168, 17)–(432, 139) mm: MATY: WBS · ExtCusion 599'5 · FNish ALopule · 49 · (ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN. Valce · ENG- · MobuLar FZZAME Guibe · APP · SCALE [:T · ISSUE · I01 03 · 003 · Hexe
 
-Every curve, box, word and wire group: [1979 - 101-03-003 - MODULAR FRAME GUIDE - DRN VINCE - ISS 4 (traced).json](../MECHANICAL/1979%20-%20101-03-003%20-%20MODULAR%20FRAME%20GUIDE%20-%20DRN%20VINCE%20-%20ISS%204%20(traced).json) (the CAD file: `1979 - 101-03-003 - MODULAR FRAME GUIDE - DRN VINCE - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 101-03-003 - MODULAR FRAME GUIDE - DRN VINCE - ISS 4 (traced).json](../MECHANICAL/1979%20-%20101-03-003%20-%20MODULAR%20FRAME%20GUIDE%20-%20DRN%20VINCE%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1979 - 101-03-003 - MODULAR FRAME GUIDE - DRN VINCE - ISS 4 (traced).dxf`).
 
 ## Full text
 
