@@ -1,5 +1,5 @@
 # 1979 - 101-03-003 - MODULAR FRAME GUIDE - DRN VINCE - ISS 4.png
-Wiki page: [M101](../../../../PAGES/M101.md)
+Wiki page: [M101](../)
 
 
 - **Year:** 1979 (title block date)

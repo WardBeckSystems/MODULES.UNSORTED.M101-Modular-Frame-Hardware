@@ -1,6 +1,6 @@
 # M101 Modular Frame Hardware · Unsorted
 
-Ward-Beck Systems M101, 1972|5. Wiki page: [M101 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M101.html)
+Ward-Beck Systems M101, 1972|5. Wiki page: [M101 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M101-Modular-Frame-Hardware/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 19xx - 101-03-018 - DRESS STRIP (MFB6-5A) - DRN MGB - ISS 1.jpg
-Wiki page: [M101](../../../../PAGES/M101.md)
+Wiki page: [M101](../)
 
 
 - **Year:** unknown (title block (read by eye))

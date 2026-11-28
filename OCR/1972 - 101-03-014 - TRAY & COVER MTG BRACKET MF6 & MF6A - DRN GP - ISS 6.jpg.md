@@ -1,5 +1,5 @@
 # 1972 - 101-03-014 - TRAY & COVER MTG BRACKET MF6 & MF6A - DRN GP - ISS 6.jpg
-Wiki page: [M101](../../../../PAGES/M101.md)
+Wiki page: [M101](../)
 
 
 - **Year:** 1972 (title block date)
